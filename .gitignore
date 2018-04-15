@@ -1,0 +1,9 @@
+.idea
+
+Dockerfile
+.env
+
+db/*
+!db/.gitkeep
+
+slackbot
